@@ -5,7 +5,7 @@ A solução mais simples para criar uma imagem de círculo CSS é usar border-ra
  
  <br>
  
- Veja o vídeo abaixo para mais detalhes do projeto.
+ Veja o vídeo abaixo para mais detalhes do projeto
  
  https://youtu.be/Acm8aYtzBYQ
 
